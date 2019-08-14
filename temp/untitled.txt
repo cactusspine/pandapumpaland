@@ -1,0 +1,3 @@
+https://towardsdatascience.com/nlp-for-topic-modeling-summarization-of-legal-documents-8c89393b1534
+https://towardsdatascience.com/practical-text-generation-with-tensorflow-serving-3fa5c792605e
+https://towardsdatascience.com/ten-applications-of-ai-to-fintech-22d626c2fdac
